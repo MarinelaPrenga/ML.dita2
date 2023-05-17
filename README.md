@@ -16,3 +16,9 @@ Interactive Visual Analytics con Folum
 Se encuentra en la carpeta el material que he trabajado el quinto dia de la 5ª semana. 
 
 
+
+# ML.dita1
+Se encuentra en la carpeta el material que he trabajado el primer dia de la 6ª semana. 
+
+Copy of M4 - 06 - Clases.ipynb
+Copy of M5 - 04 - Funciones.ipynb
