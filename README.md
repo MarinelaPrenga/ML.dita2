@@ -26,5 +26,7 @@ Copy of M4 - 06 - Clases.ipynb
 
 # ML.dia2
 Se encuentra en la carpeta el material que he trabajado el segundo  dia de la 6ª semana. En ella se encuentra la Programacion funccional, las lambda, clases, filters.
-Programación Funcional.ipynb
 
+# ML.dia3
+Se encuentra en la carpeta el material que he trabajado el tercer  dia de la 6ª semana. En ella se encuentra
+Programación Funcional, SparkSession , Transformaciones y Acciones sobre RDDs.ipynb
